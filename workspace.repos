@@ -1,0 +1,11 @@
+repositories:
+  # https://github.com/tork-a/roswww/pull/49
+  vendor/roswww:
+    type: git
+    url: git@github.com:tork-a/roswww.git
+    version: develop
+  # https://github.com/ANYbotics/grid_map/issues/230
+  vendor/grid_map_ros:
+    type: git
+    url: git@github.com:ANYbotics/grid_map.git
+    version: master
